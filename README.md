@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @vibhorV5
 - 👀 I’m interested in flutter app development
-- 🌱 I’m currently learning flutter & dart
-- 💞️ I’m looking to collaborate on flutter projects 
-- 📫 hmu @vibhor.stav@gmail.com
+- 🌱 I’m currently building apps using Flutter & Dart
+- 💞️ Open to work and collaborate on Flutter projects 
+- 📫 vibhordev7@gmail.com
 
 <!---
 vibhorV5/vibhorV5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
