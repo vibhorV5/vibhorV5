@@ -1,4 +1,4 @@
-👋🏽  Hi, I’m @vibhorV5  
+👋🏽  Hi, I’m Vibhor  
 🌱  I’m currently building apps using Flutter & Dart  
 👀  Open to work and collaborate on Flutter projects   
 📧  vibhordev7@gmail.com  
