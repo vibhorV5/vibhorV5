@@ -1,12 +1,13 @@
-👋🏽  Hi, I’m Vibhor  
-🌱  I’m currently building apps using Flutter & Dart  
-👀  Open to work and collaborate on Flutter projects   
-📧  vibhordev7@gmail.com  
+Flutter dev. Love building apps for the things that inspires me.
 
-<!-- <iframe src="https://giphy.com/embed/sMZKApJQlx93RJAdxV" width="480" height="286" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/disneyprincess-sMZKApJQlx93RJAdxV">via GIPHY</a></p> -->
+
+<img src="https://github.com/vibhorV5/github_repo_public/blob/main/running.gif" width="144" height="144">
 
 <!---
 vibhorV5/vibhorV5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<!-- https://giphy.com/embed/sMZKApJQlx93RJAdxV" width="480" height="286" -->
+<!-- https://github.com/vibhorV5/github_repo_public/blob/main/running.gif width="480" height="286" -->
+
+
+<!-- https://github.com/vibhorV5/github_repo_public/blob/main/running.gif -->
