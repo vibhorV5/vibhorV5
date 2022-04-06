@@ -1,7 +1,7 @@
 Flutter dev. Love building apps for the things that inspires me.
 
 
-<img src="https://github.com/vibhorV5/github_repo_public/blob/main/running.gif" width="144" height="144">
+<img src="https://github.com/vibhorV5/github_repo_public/blob/main/running.gif" width="75" height="75">
 
 <!---
 vibhorV5/vibhorV5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
